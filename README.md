@@ -1,5 +1,5 @@
 # CounterStrike1.6
-Clone of the Counter-Strike 1.6 game
+Present all my try/dev clone of the Counter-Strike 1.6 game
 
 
 ## Second clone : With Unreal Engine 5
