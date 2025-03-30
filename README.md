@@ -2,10 +2,12 @@
 Present all my try/dev clone of the Counter-Strike 1.6 game
 
 
+
 ## Second clone : With Unreal Engine 5
 ### First demo 
 [![](https://img.youtube.com/vi/SAzxTfb2hlI/0.jpg)](https://youtu.be/SAzxTfb2hlI "view on youtube")
 
+The source code is private, send me message if you want to contribute.
 Starting date : 2025
 
 
